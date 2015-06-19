@@ -1,0 +1,23 @@
+{
+  "name": "specref-updater",
+  "version": "0.1.0",
+  "description": "An over-engineered cron-job.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobie/specref-updater.git"
+  },
+  "author": "Tobie Langel <tobie@codespeaks.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/tobie/specref-updater/issues"
+  },
+  "homepage": "https://github.com/tobie/specref-updater",
+  "dependencies": {
+    "async": "^1.2.1",
+    "escape-string-regexp": "^1.0.3"
+  }
+}
