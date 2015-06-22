@@ -1,2 +1,2 @@
 # specref-updater
-An over-engineered cron-job.
+A bash script to keep specref updated.
